@@ -205,8 +205,10 @@ a:hover {
 }
 
 #main-slider .carousel p {
-  color: #ddd;
+  font-weight: 400;
   font-size:25px;
+  padding-left: 20px;
+
 }
 
 #main-slider .carousel .btn-slide {
